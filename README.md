@@ -16,4 +16,4 @@ dataframe.
 collected include; `tweet_id`, `retweet_count`, `favorite_count` and the `followers_count`. Then the data was
 stored and read into pandas dataframe.
 
-Then, I assessed the data, did some cleaning and merging before starting my analysis.
+Please click [here](https://github.com/AkintolaOlasubomi/WeRateDogs-Twitter-Data-Wrangling/blob/main/wrangle_report.pdf) for the rest of the report.
