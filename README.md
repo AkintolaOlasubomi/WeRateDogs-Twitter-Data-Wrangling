@@ -5,7 +5,7 @@
 * Analysis and visualization of the data.
 * Giving detailed reports of the steps taken to achieve the above mentioned
 
-## Step 1: Data Gathering
+## Data Gathering
 I successfully gathered three datasets;
 * The Archived tweets file from **@WeRateDogs(‘twitter-archive-enhanced.csv’)**: this was supplied on-hand
 by Udacity and I only needed to download manually. Then I read it into a pandas dataframe.
